@@ -32,6 +32,7 @@ Pending functionality:
 -	Applay Pagination on Dashboard 
 
 # Steps for Run Project:
--	Download Project and open in visual studio and build that project 
+-	Download Project and open in visual studio 
 -	Excecute DBChnages.txt file on sql sever 
 -	Change connection string in Web.config file  
+-	Build Project and Run project 
