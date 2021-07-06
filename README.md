@@ -6,7 +6,7 @@ application for maintaining contact information
 Expected functionality:  
 -	List contacts  
 -	Add a contact  
--	Edit contact  
+-	Edit/Update contact  
 -	Delete/Inactivate a contact 
 
 Contact model fields:  
