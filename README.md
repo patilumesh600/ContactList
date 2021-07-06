@@ -31,7 +31,7 @@ Pending functionality:
 -	Check not present when same number associate with another 
 -	Applay Pagination on Dashboard 
 
-Steps for Run Project:
+# Steps for Run Project:
 -	Download Project and open in visual studio and build that project 
 -	Excecute DBChnages.txt file on sql sever 
 -	Change connection string in Web.config file  
