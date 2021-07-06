@@ -15,7 +15,7 @@ Contact model fields:
 -	Last Name
 -	Email  
 -	Phone Number  
--	Status (Possible values: Active/Inactive)  
+-	Status (Active/Inactive)  
 
 Functionality:
 -	Add Title on top as Contact Management System 
