@@ -1,7 +1,7 @@
 # ContactList
 
 Project Description:  
-application for maintaining contact information
+Application for maintaining contact information
 
 Expected functionality:  
 -	List contacts  
